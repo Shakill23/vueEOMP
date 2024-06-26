@@ -1,0 +1,69 @@
+{
+  "jobTitle": [
+    {
+      "title": "Software Engineer"
+    },
+    {"title": "Administrator"}
+  ],
+
+  "about": [{
+    "id": "",
+    "name": "Shakeel",
+    "age": 20,
+    "city": "Cape Town",
+    "country": "South Africa",
+    "email": "shakeeldvd23@gmail.com",
+    "phone": 27609660770,
+    "github": "https://github.com/shakill23"
+  }],
+
+  "education": [{
+    "id": "",
+    "HighSchool": "Norman Henshilwood High School"
+  }],
+
+  "experience": [{
+    "id": "",
+    "title": "Software Engineer",
+    "company": "Cape Town",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "from": "2020",
+    "to": "Present"
+  }],
+
+  "skills": [{
+    "id": "",
+    "name": "HTML",
+    "level": "Advanced"
+  }, {
+    "name": "CSS",
+    "level": "Advanced"
+  }, {
+    "name": "JavaScript",
+    "level": "Advanced"
+  }, {
+    "name": "PHP",
+    "level": "Advanced"
+  }],
+
+  "testimonials": [{
+    "id": "",
+    "name": "Shakeel",
+    "surname": "Software Engineer",
+    "quotes": "Cape Town",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "from": "2020",
+    "to": "Present"
+  }],
+
+  "projects": [{
+    "id": "",
+    "name": "Online Store",
+    "description": "This is a store where you can buy things",
+    "image": "https://shakill23.github.io/onlineStore/",
+    "github": "",
+    "netlify": ""
+  }]
+}
