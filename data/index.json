@@ -25,13 +25,6 @@
       "place": "Life Choices Coding Academy",
       "description": "A Bootcamp program that provides you with the core fundamentals of Web Development, learning coding languages such as HTML, CSS, JavaScript, and more coding techniques. We being taught interpersonal and self-development skills to take us further in life.",
       "logo": ""
-    },
-    {
-      "id": "4",
-      "year": "2020 - 2024",
-      "place": "Administration",
-      "description": "I did admin work part-time for a company and the tasks I had to was: scanning documents like passports and IDs, booking train and airline tickets, editing and working with Excel spreadsheets.",
-      "logo": ""
     }
   ],
 
@@ -45,7 +38,7 @@
     { "id": "3", "name": "JavaScript", "level": "Advanced" },
     { "id": "4", "name": "VUEJS", "level": "Intermediate" },
     { "id": "5", "name": "Bootstrap", "level": "Advanced" },
-    { "id": "6", "name": "C#", "level": "#Entry-level" }
+    { "id": "6", "name": "C#", "level": "Entry-level" }
   ],
 
   "testimonials": [
