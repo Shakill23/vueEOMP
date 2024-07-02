@@ -1,83 +1,134 @@
 {
   "jobTitle": [
-    {
-      "title": "Software Engineer"},
+    { "id": "1", "title": "Software Engineer" },
     { "title": "Administrator" }
   ],
 
-  "about": [
+  "resume": [
     {
-      "id": "",
-      "name": "Shakeel",
-      "age": 20,
-      "city": "Cape Town",
-      "country": "South Africa",
-      "email": "shakeeldvd23@gmail.com",
-      "phone": 27609660770,
-      "github": "https://github.com/shakill23"
-    }
-  ],
-
-  "education": [
+      "id": "1",
+      "year": "2020 - 2022:",
+      "place": "Norman Henshilwood High School",
+      "description": "I went to Norman Henshilwood High School and studied Computer Applications and Technology, Physical Science, Pure Mathematics and Business Studies. I then matriculated in 2022.",
+      "logo": ""
+    },
     {
-      "id": "",
-      "HighSchool": "Norman Henshilwood High School"
-    }
-  ],
-
-  "experience": [
+      "id": "2",
+      "year": "February 2023 - September 2023:",
+      "place": "HyperionDev",
+      "description": "I did a 6 month online course at HyperionDev where I learned HTML, CSS, Javascript and Bootstrap.",
+      "logo": ""
+    },
     {
-      "id": "",
-      "title": "Software Engineer",
-      "company": "Cape Town",
-      "city": "Cape Town",
-      "country": "South Africa",
-      "from": "2020",
-      "to": "Present"
+      "id": "3",
+      "year": "2024 - Present:",
+      "place": "Life Choices Coding Academy",
+      "description": "A Bootcamp program that provides you with the core fundamentals of Web Development, learning coding languages such as HTML, CSS, JavaScript, and more coding techniques. We being taught interpersonal and self-development skills to take us further in life.",
+      "logo": ""
+    },
+    {
+      "id": "4",
+      "year": "2020 - 2024",
+      "place": "Administration",
+      "description": "I did admin work part-time for a company and the tasks I had to was: scanning documents like passports and IDs, booking train and airline tickets, editing and working with Excel spreadsheets.",
+      "logo": ""
     }
   ],
 
   "skills": [
     {
-      "id": "",
+      "id": "1",
       "name": "HTML",
       "level": "Advanced"
     },
-    {
-      "name": "CSS",
-      "level": "Advanced"
-    },
-    {
-      "name": "JavaScript",
-      "level": "Advanced"
-    },
-    {
-      "name": "PHP",
-      "level": "Advanced"
-    }
+    { "id": "2", "name": "CSS", "level": "Advanced" },
+    { "id": "3", "name": "JavaScript", "level": "Advanced" },
+    { "id": "4", "name": "VUEJS", "level": "Intermediate" },
+    { "id": "5", "name": "Bootstrap", "level": "Advanced" },
+    { "id": "6", "name": "C#", "level": "#Entry-level" }
   ],
 
   "testimonials": [
     {
-      "id": "",
-      "name": "Shakeel",
-      "surname": "Software Engineer",
-      "quotes": "Cape Town",
-      "city": "Cape Town",
-      "country": "South Africa",
-      "from": "2020",
-      "to": "Present"
+      "name": "Nizaam",
+      "surname": "Jeftha",
+      "quotes": "In the realm of coding, Shakeel reigns supreme. He's not just a brilliant coder; he's a mentor in the making.",
+      "profile": "https://shakill23.github.io/allImages/images/njFormal.jpg"
+    },
+    {
+      "name": "Anushqa",
+      "surname": "Kandan",
+      "quotes": "His patience and guidance have been instrumental in my growth as a developer.",
+      "profile": "https://shakill23.github.io/allImages/images/akFormal.jpg"
+    },
+    {
+      "name": "Joel",
+      "surname": "Mukanya",
+      "quotes": "Shakeel is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with his peers and excels at working on project assignments. He has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce him as an exceptional candidate anddeveloper.",
+      "profile": "https://shakill23.github.io/allImages/images/joel2.jpg"
+    },
+    {
+      "name": "Caleb",
+      "surname": "Okkers",
+      "quotes": "I am grateful to call Shakeel a close friend. He has great work ethic, analytical and problem solving skills. He thrives in collaborative settings as well as when he works on his own. He is kind, generous and hilarious. Shakeel would be a valuable asset to any organization.",
+      "profile": "https://shakill23.github.io/allImages/images/coFormal.jpg"
+    },
+    {
+      "name": "Farghanah",
+      "surname": "Kamaldien",
+      "quotes": "Shakeel? Oh, he's like the coding superhero of our office! He's always there to help out, making sure everyone's codes are as flawless as his.",
+      "profile": "https://shakill23.github.io/allImages/images/fkFormal.jpg"
+    },
+    {
+      "name": "Nizaam",
+      "surname": "Jeftha",
+      "quotes": "In the realm of coding, Shakeel reigns supreme. He's not just a brilliant coder; he's a mentor in the making.",
+      "profile": "https://shakill23.github.io/allImages/images/njFormal.jpg"
     }
   ],
 
   "projects": [
     {
-      "id": "",
-      "name": "Online Store",
-      "description": "This is a store where you can buy things",
-      "image": "https://shakill23.github.io/onlineStore/",
-      "github": "",
-      "netlify": ""
+      "name": "To-do List",
+      "description": "An auto sorting to-do list, made with Javascript, HTML and CSS",
+      "image": "https://iili.io/J74NwmP.md.png",
+      "gitHub": "https://github.com/daanyaalkellerman/toDoList.git",
+      "netlify": "https://stupendous-faloodeh-2c4bca.netlify.app"
+    },
+    {
+      "name": "To-do List",
+      "description": "An auto sorting to-do list, made with Javascript, HTML and CSS",
+      "image": "https://iili.io/J74NwmP.md.png",
+      "gitHub": "https://github.com/daanyaalkellerman/toDoList.git",
+      "netlify": "https://stupendous-faloodeh-2c4bca.netlify.app"
+    },
+    {
+      "name": "To-do List",
+      "description": "An auto sorting to-do list, made with Javascript, HTML and CSS",
+      "image": "https://iili.io/J74NwmP.md.png",
+      "gitHub": "https://github.com/daanyaalkellerman/toDoList.git",
+      "netlify": "https://stupendous-faloodeh-2c4bca.netlify.app"
+    },
+    {
+      "name": "To-do List",
+      "description": "An auto sorting to-do list, made with Javascript, HTML and CSS",
+      "image": "https://iili.io/J74NwmP.md.png",
+      "gitHub": "https://github.com/daanyaalkellerman/toDoList.git",
+      "netlify": "https://stupendous-faloodeh-2c4bca.netlify.app"
+    },
+    {
+      "name": "To-do List",
+      "description": "An auto sorting to-do list, made with Javascript, HTML and CSS",
+      "image": "https://iili.io/J74NwmP.md.png",
+      "gitHub": "https://github.com/daanyaalkellerman/toDoList.git",
+      "netlify": "https://stupendous-faloodeh-2c4bca.netlify.app"
+    },
+    {
+      "name": "To-do List",
+      "description": "An auto sorting to-do list, made with Javascript, HTML and CSS",
+      "image": "https://iili.io/J74NwmP.md.png",
+      "gitHub": "https://github.com/daanyaalkellerman/toDoList.git",
+      "netlify": "https://stupendous-faloodeh-2c4bca.netlify.app"
     }
   ]
 }
