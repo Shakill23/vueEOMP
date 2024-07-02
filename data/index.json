@@ -30,15 +30,13 @@
 
   "skills": [
     {
-      "id": "1",
-      "name": "HTML",
-      "level": "Advanced"
+      "skill": "https://shakill23.github.io/allImages/images/html-5.png"
     },
-    { "id": "2", "name": "CSS", "level": "Advanced" },
-    { "id": "3", "name": "JavaScript", "level": "Advanced" },
-    { "id": "4", "name": "VUEJS", "level": "Intermediate" },
-    { "id": "5", "name": "Bootstrap", "level": "Advanced" },
-    { "id": "6", "name": "C#", "level": "Entry-level" }
+    { "skill": "https://shakill23.github.io/allImages/images/css-3.png"},
+    { "skill": "https://shakill23.github.io/allImages/images/js.png" },
+    { "skill": "https://shakill23.github.io/allImages/images/bootstrap.png" },
+    { "skill": "" },
+    { "skill": "" }
   ],
 
   "testimonials": [
