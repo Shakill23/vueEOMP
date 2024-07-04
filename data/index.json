@@ -65,51 +65,51 @@
       "profile": "https://shakill23.github.io/allImages/images/coFormal.jpg"
     },
     {
-      "name": "Farghanah",
-      "surname": "Kamaldien",
+      "name": "Kyle",
+      "surname": "Brink",
       "quotes": "Shakeel? Oh, he's like the coding superhero of our office! He's always there to help out, making sure everyone's codes are as flawless as his.",
-      "profile": "https://shakill23.github.io/allImages/images/fkFormal.jpg"
+      "profile": "https://shakill23.github.io/allImages/images/kbFormal.jpg"
     },
     {
-      "name": "Nizaam",
-      "surname": "Jeftha",
-      "quotes": "In the realm of coding, Shakeel reigns supreme. He's not just a brilliant coder; he's a mentor in the making.",
-      "profile": "https://shakill23.github.io/allImages/images/njFormal.jpg"
+      "name": "Aakifah",
+      "surname": "Palekar",
+      "quotes": "Working with Shakeel on our website was a fantastic experience. His coding expertise and attention to detail ensured we had an outstanding final product.",
+      "profile": "https://shakill23.github.io/allImages/images/apFormal.jpg"
     }
   ],
 
   "projects": [
     {
       "name": "Calculator",
-      "description": "An auto sorting to-do list, made with Javascript, HTML and CSS",
+      "description": "A basic calculator.",
       "image": "https://shakill23.github.io/allImages/images/calculator.png",
       "gitHub": "https://github.com/Shakill23/calculator",
       "netlify": ""
     },
     {
       "name": "Keyboard",
-      "description": "An auto sorting to-do list, made with Javascript, HTML and CSS",
+      "description": "My first Keyboard.",
       "image": "https://shakill23.github.io/allImages/images/keyboard.png",
       "gitHub": "https://github.com/Shakill23/keyboard",
       "netlify": ""
     },
     {
       "name": "Flip Card",
-      "description": "An auto sorting to-do list, made with Javascript, HTML and CSS",
+      "description": "A really cool Flip Card.",
       "image": "https://shakill23.github.io/allImages/images/flipCard.png",
       "gitHub": "https://github.com/Shakill23/flipCard",
       "netlify": ""
     },
     {
       "name": "Guest List",
-      "description": "An auto sorting to-do list, made with Javascript, HTML and CSS",
+      "description": "A simple guest list, made with Javascript and HTML.",
       "image": "https://shakill23.github.io/allImages/images/guestList.png",
       "gitHub": "https://github.com/Shakill23/guestListJS",
       "netlify": ""
     },
     {
       "name": "notGoogle",
-      "description": "An auto sorting to-do list, made with Javascript, HTML and CSS",
+      "description": "A duplicate of Google, made with only HTML and CSS",
       "image": "https://shakill23.github.io/allImages/images/notGoogle.png",
       "gitHub": "https://github.com/Shakill23/notGoogle",
       "netlify": ""
@@ -118,8 +118,8 @@
       "name": "To-do List",
       "description": "An auto sorting to-do list, made with Javascript, HTML and CSS",
       "image": "https://iili.io/J74NwmP.md.png",
-      "gitHub": "https://github.com/daanyaalkellerman/toDoList.git",
-      "netlify": "https://stupendous-faloodeh-2c4bca.netlify.app"
+      "gitHub": "https://shakill23.github.io/toDoList/",
+      "netlify": ""
     }
   ]
 }
