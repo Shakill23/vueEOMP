@@ -9,34 +9,20 @@
       "id": "1",
       "year": "2020 - 2022:",
       "place": "Norman Henshilwood High School",
-      "description": "I went to Norman Henshilwood High School and studied Computer Applications and Technology, Physical Science, Pure Mathematics and Business Studies. I then matriculated in 2022.",
-      "logo": ""
+      "description": "I went to Norman Henshilwood High School and studied Computer Applications and Technology, Physical Science, Pure Mathematics and Business Studies. I then matriculated in 2022."
     },
     {
       "id": "2",
       "year": "February 2023 - September 2023:",
       "place": "HyperionDev",
-      "description": "I did a 6 month online course at HyperionDev where I learned HTML, CSS, Javascript and Bootstrap.",
-      "logo": ""
+      "description": "I did a 6 month online course at HyperionDev where I learned HTML, CSS, Javascript and Bootstrap."
     },
     {
       "id": "3",
       "year": "2024 - Present:",
       "place": "Life Choices Coding Academy",
-      "description": "A Bootcamp program that provides you with the core fundamentals of Web Development, learning coding languages such as HTML, CSS, JavaScript, and more coding techniques. We being taught interpersonal and self-development skills to take us further in life.",
-      "logo": ""
+      "description": "A Bootcamp program that provides you with the core fundamentals of Web Development, learning coding languages such as HTML, CSS, JavaScript, and more coding techniques. We being taught interpersonal and self-development skills to take us further in life."
     }
-  ],
-
-  "skills": [
-    {
-      "skill": "https://shakill23.github.io/allImages/images/html-5.png"
-    },
-    { "skill": "https://shakill23.github.io/allImages/images/css-3.png"},
-    { "skill": "https://shakill23.github.io/allImages/images/js.png" },
-    { "skill": "https://shakill23.github.io/allImages/images/bootstrap.png" },
-    { "skill": "" },
-    { "skill": "" }
   ],
 
   "testimonials": [
@@ -83,43 +69,37 @@
       "name": "Calculator",
       "description": "A basic calculator.",
       "image": "https://shakill23.github.io/allImages/images/calculator.png",
-      "gitHub": "https://github.com/Shakill23/calculator",
-      "netlify": ""
+      "gitHub": "https://github.com/Shakill23/calculator"
     },
     {
       "name": "Keyboard",
       "description": "My first Keyboard.",
       "image": "https://shakill23.github.io/allImages/images/keyboard.png",
-      "gitHub": "https://github.com/Shakill23/keyboard",
-      "netlify": ""
+      "gitHub": "https://github.com/Shakill23/keyboard"
     },
     {
       "name": "Flip Card",
       "description": "A really cool Flip Card.",
       "image": "https://shakill23.github.io/allImages/images/flipCard.png",
-      "gitHub": "https://github.com/Shakill23/flipCard",
-      "netlify": ""
+      "gitHub": "https://github.com/Shakill23/flipCard"
     },
     {
       "name": "Guest List",
       "description": "A simple guest list, made with Javascript and HTML.",
       "image": "https://shakill23.github.io/allImages/images/guestList.png",
-      "gitHub": "https://github.com/Shakill23/guestListJS",
-      "netlify": ""
+      "gitHub": "https://github.com/Shakill23/guestListJS"
     },
     {
       "name": "notGoogle",
       "description": "A duplicate of Google, made with only HTML and CSS",
       "image": "https://shakill23.github.io/allImages/images/notGoogle.png",
-      "gitHub": "https://github.com/Shakill23/notGoogle",
-      "netlify": ""
+      "gitHub": "https://github.com/Shakill23/notGoogle"
     },
     {
       "name": "To-do List",
       "description": "An auto sorting to-do list, made with Javascript, HTML and CSS",
       "image": "https://shakill23.github.io/allImages/images/todoList.png",
-      "gitHub": "https://shakill23.github.io/toDoList/",
-      "netlify": ""
+      "gitHub": "https://shakill23.github.io/toDoList/"
     }
   ]
 }
