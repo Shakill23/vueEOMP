@@ -25,45 +25,6 @@
     }
   ],
 
-  "testimonials": [
-    {
-      "name": "Nizaam",
-      "surname": "Jeftha",
-      "quotes": "In the realm of coding, Shakeel reigns supreme. He's not just a brilliant coder; he's a mentor in the making.",
-      "profile": "https://shakill23.github.io/allImages/images/njFormal.jpg"
-    },
-    {
-      "name": "Anushqa",
-      "surname": "Kandan",
-      "quotes": "His patience and guidance have been instrumental in my growth as a developer.",
-      "profile": "https://shakill23.github.io/allImages/images/akFormal.jpg"
-    },
-    {
-      "name": "Joel",
-      "surname": "Mukanya",
-      "quotes": "Shakeel is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with his peers and excels at working on project assignments. He has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce him as an exceptional candidate anddeveloper.",
-      "profile": "https://shakill23.github.io/allImages/images/joel2.jpg"
-    },
-    {
-      "name": "Caleb",
-      "surname": "Okkers",
-      "quotes": "I am grateful to call Shakeel a close friend. He has great work ethic, analytical and problem solving skills. He thrives in collaborative settings as well as when he works on his own. He is kind, generous and hilarious. Shakeel would be a valuable asset to any organization.",
-      "profile": "https://shakill23.github.io/allImages/images/coFormal.jpg"
-    },
-    {
-      "name": "Kyle",
-      "surname": "Brink",
-      "quotes": "Shakeel? Oh, he's like the coding superhero of our office! He's always there to help out, making sure everyone's codes are as flawless as his.",
-      "profile": "https://shakill23.github.io/allImages/images/kbFormal.jpg"
-    },
-    {
-      "name": "Aakifah",
-      "surname": "Palekar",
-      "quotes": "Working with Shakeel on our website was a fantastic experience. His coding expertise and attention to detail ensured we had an outstanding final product.",
-      "profile": "https://shakill23.github.io/allImages/images/apFormal.jpg"
-    }
-  ],
-
   "projects": [
     {
       "name": "Calculator",
