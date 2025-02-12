@@ -27,45 +27,46 @@
 
   "projects": [
     {
-      "name": "Calculator",
-      "description": "A basic calculator.",
-      "image": "https://shakill23.github.io/allImages/images/calculator.png",
-      "gitHub": "https://github.com/Shakill23/calculator",
+      "name": "Weather App",
+      "description": "An auto sorting to-do list, made with Javascript, HTML and CSS",
+      "image": "https://shakill23.github.io/allImages/images/todoList.png",
+      "gitHub": "https://github.com/Shakill23/toDoList",
       "live": "https://github.com/Shakill23/notGoogle"
     },
     {
-      "name": "Keyboard",
-      "description": "My first Keyboard.",
-      "image": "https://shakill23.github.io/allImages/images/keyboard.png",
-      "gitHub": "https://github.com/Shakill23/keyboard",
-      "live": "https://github.com/Shakill23/notGoogle"
-    },
-    {
-      "name": "Flip Card",
+      "name": "Hangman Game",
       "description": "A really cool Flip Card.",
-      "image": "https://shakill23.github.io/allImages/images/flipCard.png",
-      "gitHub": "https://github.com/Shakill23/flipCard",
-      "live": "https://github.com/Shakill23/notGoogle"
+      "image": "https://shakill23.github.io/allImages/images/realhangman.png",
+      "gitHub": "https://github.com/JefthaNizaam01/Hangman",
+      "live": "https://hangman-4.onrender.com/"
     },
     {
-      "name": "Guest List",
+      "name": "One-Stop Appliance Shop",
+      "description": "A basic calculator.",
+      "image": "https://shakill23.github.io/allImages/images/Screenshot 2025-02-12 122950.png",
+      "gitHub": "https://github.com/Shakill23/oneStopApplianceShop",
+      "live": "https://one-stop-appliance-shop.vercel.app"
+    },
+    {
+      "name": "Symphony",
+      "description": "My first Keyboard.",
+      "image": "https://shakill23.github.io/allImages/images/Screenshot 2025-02-12 123930.png",
+      "gitHub": "https://github.com/Shakill23/symphony_node_Project",
+      "live": "https://symphony123-d24e7.firebaseapp.com"
+    },
+
+    {
+      "name": "OSAS",
       "description": "A simple guest list, made with Javascript and HTML.",
-      "image": "https://shakill23.github.io/allImages/images/guestList.png",
-      "gitHub": "https://github.com/Shakill23/guestListJS",
-      "live": "https://github.com/Shakill23/notGoogle"
+      "image": "https://shakill23.github.io/allImages/images/Screenshot 2025-02-12 123640.png",
+      "gitHub": "https://github.com/Shakill23/OSAS",
+      "live": "https://osas-a3b2f.firebaseapp.com"
     },
     {
       "name": "notGoogle",
       "description": "A duplicate of Google, made with only HTML and CSS",
       "image": "https://shakill23.github.io/allImages/images/notGoogle.png",
       "gitHub": "https://github.com/Shakill23/notGoogle",
-      "live": "https://github.com/Shakill23/notGoogle"
-    },
-    {
-      "name": "To-do List",
-      "description": "An auto sorting to-do list, made with Javascript, HTML and CSS",
-      "image": "https://shakill23.github.io/allImages/images/todoList.png",
-      "gitHub": "https://github.com/Shakill23/toDoList",
       "live": "https://github.com/Shakill23/notGoogle"
     }
   ]
