@@ -30,37 +30,43 @@
       "name": "Calculator",
       "description": "A basic calculator.",
       "image": "https://shakill23.github.io/allImages/images/calculator.png",
-      "gitHub": "https://github.com/Shakill23/calculator"
+      "gitHub": "https://github.com/Shakill23/calculator",
+      "live": "https://github.com/Shakill23/notGoogle"
     },
     {
       "name": "Keyboard",
       "description": "My first Keyboard.",
       "image": "https://shakill23.github.io/allImages/images/keyboard.png",
-      "gitHub": "https://github.com/Shakill23/keyboard"
+      "gitHub": "https://github.com/Shakill23/keyboard",
+      "live": "https://github.com/Shakill23/notGoogle"
     },
     {
       "name": "Flip Card",
       "description": "A really cool Flip Card.",
       "image": "https://shakill23.github.io/allImages/images/flipCard.png",
-      "gitHub": "https://github.com/Shakill23/flipCard"
+      "gitHub": "https://github.com/Shakill23/flipCard",
+      "live": "https://github.com/Shakill23/notGoogle"
     },
     {
       "name": "Guest List",
       "description": "A simple guest list, made with Javascript and HTML.",
       "image": "https://shakill23.github.io/allImages/images/guestList.png",
-      "gitHub": "https://github.com/Shakill23/guestListJS"
+      "gitHub": "https://github.com/Shakill23/guestListJS",
+      "live": "https://github.com/Shakill23/notGoogle"
     },
     {
       "name": "notGoogle",
       "description": "A duplicate of Google, made with only HTML and CSS",
       "image": "https://shakill23.github.io/allImages/images/notGoogle.png",
-      "gitHub": "https://github.com/Shakill23/notGoogle"
+      "gitHub": "https://github.com/Shakill23/notGoogle",
+      "live": "https://github.com/Shakill23/notGoogle"
     },
     {
       "name": "To-do List",
       "description": "An auto sorting to-do list, made with Javascript, HTML and CSS",
       "image": "https://shakill23.github.io/allImages/images/todoList.png",
-      "gitHub": "https://github.com/Shakill23/toDoList"
+      "gitHub": "https://github.com/Shakill23/toDoList",
+      "live": "https://github.com/Shakill23/notGoogle"
     }
   ]
 }
