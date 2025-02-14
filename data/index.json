@@ -28,28 +28,28 @@
   "projects": [
     {
       "name": "Weather App",
-      "description": "An auto sorting to-do list, made with Javascript, HTML and CSS",
-      "image": "https://shakill23.github.io/allImages/images/todoList.png",
-      "gitHub": "https://github.com/Shakill23/toDoList",
-      "live": "https://github.com/Shakill23/notGoogle"
-    },
-    {
-      "name": "Hangman Game",
-      "description": "A really cool Flip Card.",
-      "image": "https://shakill23.github.io/allImages/images/realhangman.png",
-      "gitHub": "https://github.com/JefthaNizaam01/Hangman",
-      "live": "https://hangman-4.onrender.com/"
+      "description": "An app that tells you the weather using OpenWeatherAPI.",
+      "image": "https://shakill23.github.io/allImages/images/weater app screenshot.png",
+      "gitHub": "https://github.com/JefthaNizaam01/WeatherApp",
+      "live": "https://weatherapp-3-jve8.onrender.com/"
     },
     {
       "name": "One-Stop Appliance Shop",
-      "description": "A basic calculator.",
+      "description": "An e-commerce website for appliances.",
       "image": "https://shakill23.github.io/allImages/images/Screenshot 2025-02-12 122950.png",
       "gitHub": "https://github.com/Shakill23/oneStopApplianceShop",
       "live": "https://one-stop-appliance-shop.vercel.app"
     },
     {
+      "name": "Hangman Game",
+      "description": "A simple hangman game made with Javascript, Python and Flask.",
+      "image": "https://shakill23.github.io/allImages/images/realhangman.png",
+      "gitHub": "https://github.com/JefthaNizaam01/Hangman",
+      "live": "https://hangman-4.onrender.com/"
+    },
+    {
       "name": "Symphony",
-      "description": "My first Keyboard.",
+      "description": "A simple e-commerce website, made using Node.js and Firebase.",
       "image": "https://shakill23.github.io/allImages/images/Screenshot 2025-02-12 123930.png",
       "gitHub": "https://github.com/Shakill23/symphony_node_Project",
       "live": "https://symphony123-d24e7.firebaseapp.com"
@@ -57,17 +57,10 @@
 
     {
       "name": "OSAS",
-      "description": "A simple guest list, made with Javascript and HTML.",
+      "description": "Version 2 of the One-Stop Appliance Shop",
       "image": "https://shakill23.github.io/allImages/images/Screenshot 2025-02-12 123640.png",
       "gitHub": "https://github.com/Shakill23/OSAS",
       "live": "https://osas-a3b2f.firebaseapp.com"
-    },
-    {
-      "name": "notGoogle",
-      "description": "A duplicate of Google, made with only HTML and CSS",
-      "image": "https://shakill23.github.io/allImages/images/notGoogle.png",
-      "gitHub": "https://github.com/Shakill23/notGoogle",
-      "live": "https://github.com/Shakill23/notGoogle"
     }
   ]
 }
