@@ -27,29 +27,29 @@
 
   "projects": [
     {
-      "name": "Weather App",
-      "description": "An app that tells you the weather using OpenWeatherAPI.",
-      "image": "https://shakill23.github.io/allImages/images/weater app screenshot.png",
-      "gitHub": "https://github.com/JefthaNizaam01/WeatherApp",
-      "live": "https://weatherapp-3-jve8.onrender.com/"
+      "name": "Zoom Eats",
+      "description": "A growing fast-food chain is looking to modernise its ordering process by developing a mobile application. The app aims to streamline the ordering experience for customers, reduce waiting times, and increase overall customer satisfaction. My team has done the designing and planning the development of this mobile application using SCRUM methodology, as well as developing a brand identity for the fast-food chain using UI/UX design and Figma in a 1 week timeframe.",
+      "image": "https://shakill23.github.io/allImages/images/Screenshot 2025-05-09 100623.png",
+      "gitHub": "https://www.figma.com/design/vDNfpT8xZOZaHdczLk1Uc6/ZoomEats?node-id=0-1&t=B9nvrwc9l9DFb9S6-1",
+      "live": "https://www.figma.com/proto/vDNfpT8xZOZaHdczLk1Uc6/ZoomEats?node-id=36-2&p=f&t=Dt6r3AOR6443UFFF-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=36%3A2&show-proto-sidebar=1"
     },
     {
       "name": "One-Stop Appliance Shop",
-      "description": "An e-commerce website for appliances.",
+      "description": "An e-commerce website for appliances, pulling the products and info from a separate JSON file.",
       "image": "https://shakill23.github.io/allImages/images/Screenshot 2025-02-12 122950.png",
       "gitHub": "https://github.com/Shakill23/oneStopApplianceShop",
       "live": "https://one-stop-appliance-shop.vercel.app"
     },
     {
       "name": "Hangman Game",
-      "description": "A simple hangman game made with Javascript, Python and Flask.",
+      "description": "A simple hangman game made collaboratively using Javascript, Python and Flask.",
       "image": "https://shakill23.github.io/allImages/images/realhangman.png",
       "gitHub": "https://github.com/JefthaNizaam01/Hangman",
       "live": "https://hangman-4.onrender.com/"
     },
     {
       "name": "Symphony",
-      "description": "A simple e-commerce website, made using Node.js and Firebase.",
+      "description": "A simple e-commerce website, made using Node.js, Vue.js and deployed on Firebase.",
       "image": "https://shakill23.github.io/allImages/images/Screenshot 2025-02-12 123930.png",
       "gitHub": "https://github.com/Shakill23/symphony_node_Project",
       "live": "https://symphony123-d24e7.firebaseapp.com"
@@ -57,7 +57,7 @@
 
     {
       "name": "OSAS",
-      "description": "Version 2 of the One-Stop Appliance Shop",
+      "description": "Version 2 of the One-Stop Appliance Shop but instead of pulling from a JSON file, now we pull from a MySQL database and there is a separate Backend and Frontend branches, also there's User Authentication and a Sign Up feature.",
       "image": "https://shakill23.github.io/allImages/images/Screenshot 2025-02-12 123640.png",
       "gitHub": "https://github.com/Shakill23/OSAS",
       "live": "https://osas-a3b2f.firebaseapp.com"
